@@ -1,0 +1,117 @@
+[
+  {
+    "name": "dietetique",
+    "type": "boolean",
+    "title": "« quizz diététique »",
+    "questions": [
+      "L’activité physique permet d’améliorer les capacités cardiaques",
+      "La margarine est moins calorique que le beurre",
+      "Il ne faut pas boire pendant le repas",
+      "Les repas en « famille » sont incompatibles avec le « régime »",
+      "L’huile d’olive est moins grasse que l’huile de tournesol",
+      "On  ne peut pas consommer des féculents lors d’un « régime » amaigrissant",
+      "Les édulcorants à l’aspartam sont dangereux pour la santé",
+      "Les viennoiseries contiennent  du sel",
+      "La majorité du sel consommé provient de la salière",
+      "Sur les étiquettes les lipides indiquent les « sucres »",
+      "On peut manger des légumes à volonté pour maigrir",
+      "Le pain blanc a un index glycémique plus bas que les pâtes",
+      "Le lait ½ écrémé contient moins de calcium que le lait entier",
+      "Les oméga 3 sont des « bonnes » graisses",
+      "On peut consommer des fruits à volonté ",
+      "Un litre de soda contient 20 morceaux de sucre"
+    ]
+  },
+  {
+    "name": "comportemental",
+    "type": "boolean",
+    "title": "« quizz comportemental »",
+    "questions": [
+      "Il faut toujours commencer par essayer d’atteindre l’objectif le plus élevé",
+      "Le soutien social favorise le changement",
+      "La motivation à changer dépend essentiellement de soi-même",
+      "La capacité à changer est une question de volonté",
+      "Si on veut maigrir il  faut enlever les aliments gras",
+      "Pour sentir le goût il faut inspirer",
+      "Ce qui est bon à manger est forcément mauvais pour le corps",
+      "Quand on est occupé pendant le repas on mange 30% de plus que si on est attentif à son assiette",
+      "On mange en moins grande quantité quand on est apaisé",
+      "Tout le monde n’a pas la même sensation de satiété"
+    ]
+  },
+  {
+    "name": "qualitevie",
+    "title": "« qualité de vie »",
+    "type": "10choices",
+    "questions": [
+      "Dans la vie de tous les jours, la gêne que je ressens pour respirer quand je fais un effort est :",
+      "Dans la vie de tous les jours, la gêne que je ressens parce que j’ai mal dans les articulations (les genoux, les hanches, les chevilles, les épaules...) est :",
+      "Dans la vie de tous les jours, la gêne que je ressens pour monter ou descendre les escaliers est :",
+      "Dans la vie de tous les jours, la gêne que je ressens pour faire mes courses est :",
+      "Dans la vie de tous les jours, la gêne que je ressens à cause de difficultés physiques au cours des relations sexuelles est :",
+      "Dans la vie de tous les jours, la gêne que je ressens parce que je suis mal à l’aise quand je mange avec d’autres personnes est :",
+      "Dans la vie de tous les jours, la gêne que je ressens parce que je suis préoccupé par mon apparence physique est :",
+      "Dans la vie de tous les jours, la gêne que je ressens parce que j’ai un sentiment d’échec est :",
+      "Dans la vie de tous les jours, la gêne que je ressens pour trouver facilement une place dans les transports en commun (bus, train, avion) ou au restaurant est : ",
+      "Dans la vie de tous les jours, la gêne que je ressens parce que j’éprouve le sentiment d’être rejeté(e) par les autres est : "
+    ]
+  },
+  {
+    "name": "physique",
+    "title": "« quizz activité physique »",
+    "type": "boolean",
+    "questions": [
+      "L’activité physique permet d’améliorer les capacités cardiaques",
+      "Il ne faut pas boire pendant l’activité physique",
+      "L’activité physique augmente les dépenses énergétiques",
+      "L’activité physique permet de maintenir sa perte de poids",
+      "Il est conseillé de faire une activité physique le matin à jeun ",
+      "Une personne active marche moins de 6000 pas par jour",
+      "L’activité physique permet d’améliorer un état anxieux",
+      "Un régime restrictif peut entraîner une diminution de sa masse musculaire",
+      "Il est conseillé de marcher au moins une demi-heure par jour pour être en bonne santé",
+      "L’échauffement avant l’exercice physique fatigue l’organisme"
+    ]
+  },
+  {
+    "name": "estimedesoi",
+    "type": "4choices",
+    "title": "« estime de soi »",
+    "pre": "Pour chacune des caractéristiques ou descriptions suivantes, indiquez à quel point chacune est vraie",
+    "questions": [
+      "Je pense que je suis une personne de valeur, au moins égale à n'importe qui d'autre",
+      "Je pense que je possède un certain nombre de belles qualités",
+      "Tout bien considéré, je suis porté à me considérer comme un raté",
+      "Je suis capable de faire les choses aussi bien que la majorité des gens",
+      "Je sens peu de raisons d'être fier de moi.",
+      "J'ai une attitude positive vis-à-vis moi-même",
+      "Dans l'ensemble, je suis satisfait de moi",
+      "J'aimerais avoir plus de respect pour moi-même",
+      "Parfois je me sens vraiment inutile",
+      "Il m'arrive de penser que je suis un bon à rien"
+    ]
+  },
+  {
+    "name": "bilanone",
+    "title": "Bilan de synthèse du patient 1",
+    "type": "text",
+    "pre": " A la fin de votre cycle, pouvez vous répondre à ces trois questions sur vos intentions de changement:",
+    "questions": [
+      "Qu’avez-vous envie de changer?",
+      "Que vous sentez vous capable de changer?",
+      "Pensez-vous pouvoir commencer aujourd’hui?"
+    ]
+  },
+  {
+    "name": "bilantwo",
+    "title": "Bilan de synthèse du patient 2",
+    "type": "text",
+    "pre": "Par rapports aux objectifs que vous aviez identifiés qu’avez-vous pu mettre vraiment en pratique ?",
+    "questions": [
+      "une activité sportive ? si oui laquelle ?",
+      "une consultation avec un  psychologue ou psychiatre ?",
+      "une modification de votre comportement alimentaire ? si oui lequel ou lesquels ?",
+      "quelles difficultés rencontrez-vous  depuis la fin du programme ?"
+    ]
+  }
+]
