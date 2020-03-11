@@ -4,7 +4,6 @@
     "type": "boolean",
     "title": "« quizz diététique »",
     "questions": [
-      "L’activité physique permet d’améliorer les capacités cardiaques",
       "La margarine est moins calorique que le beurre",
       "Il ne faut pas boire pendant le repas",
       "Les repas en « famille » sont incompatibles avec le « régime »",
@@ -89,29 +88,6 @@
       "J'aimerais avoir plus de respect pour moi-même",
       "Parfois je me sens vraiment inutile",
       "Il m'arrive de penser que je suis un bon à rien"
-    ]
-  },
-  {
-    "name": "bilanone",
-    "title": "Bilan de synthèse du patient 1",
-    "type": "text",
-    "pre": " A la fin de votre cycle, pouvez vous répondre à ces trois questions sur vos intentions de changement:",
-    "questions": [
-      "Qu’avez-vous envie de changer?",
-      "Que vous sentez vous capable de changer?",
-      "Pensez-vous pouvoir commencer aujourd’hui?"
-    ]
-  },
-  {
-    "name": "bilantwo",
-    "title": "Bilan de synthèse du patient 2",
-    "type": "text",
-    "pre": "Par rapports aux objectifs que vous aviez identifiés qu’avez-vous pu mettre vraiment en pratique ?",
-    "questions": [
-      "une activité sportive ? si oui laquelle ?",
-      "une consultation avec un  psychologue ou psychiatre ?",
-      "une modification de votre comportement alimentaire ? si oui lequel ou lesquels ?",
-      "quelles difficultés rencontrez-vous  depuis la fin du programme ?"
     ]
   }
 ]
